@@ -6,7 +6,7 @@
 | Hi, I’m @ngueagho , a 4th-year student from Cameroun, specializing in Devops . I love diving into web and mobile development , cloud computing with AWS and cybersecurity with fortiget . Driven by the belief that technology can transform lives and create impactful solutions, and open to collaborating on online projects to drive innovation and make a difference; you can reach me at landry.ngueagho@facsciences-uy1.cm . | <img width="600px" align="right" src="senior-dev.jpg" alt=""/> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 
-
+ 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/roberto-landry-ngueagho-tiodong-7a0989223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://medium.com/@ngueaghotiodongrobertolandry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rishav_chanda" height="30" width="40" /></a>
@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=ngueagho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngueagho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
+![](https://github-readme-streak-stats.herokuapp.com/?user=ngueagho&theme=dark&hide_border=false)<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
