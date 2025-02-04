@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ngueagho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngueagho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=MohaElbadry&&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohaElbadry&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00)
 ### ✍️ Random Dev Quote
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ngueagho&theme=dark&hide_border=false)<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
