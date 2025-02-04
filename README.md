@@ -3,9 +3,8 @@
  <h1 align="center">Hi 👋 there</h1>
 
 
-| I'm Mohammed EL Badry, a 2nd-year student from Morocco. I'm passionate about [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native), [Laravel](https://laravel.com/), and I love diving into web and mobile development. I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact! | <img width="400px" align="right" src="senior-dev.jpg" alt=""/> |
+| Hi, I’m @ngueagho , a 4th-year student from Cameroun, specializing in Devops , i'm passionate about web and mobile development , while also exploring cloud computing with AWS, cybersecurity, and programming, driven by the belief that technology can transform lives and create impactful solutions, and open to collaborating on online projects to drive innovation and make a difference; you can reach me at landry.ngueagho@facsciences-uy1.cm or expert237237@gmail.com or By whatsapp at +237620300235. Let's connect and collaborate on exciting projects to make a positive impact! | <img width="400px" align="right" src="senior-dev.jpg" alt=""/> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-
 
 
 
