@@ -3,7 +3,7 @@
  <h1 align="center">Hi 👋 there</h1>
 
 
-| Hi, I’m @ngueagho , a 4th-year student from Cameroun, specializing in Devops . I love diving into web and mobile development , cloud computing with AWS and cybersecurity with fortiget . Driven by the belief that technology can transform lives and create impactful solutions, and open to collaborating on online projects to drive innovation and make a difference; you can reach me at landry.ngueagho@facsciences-uy1.cm . | <img width="600px" align="right" src="senior-dev.jpg" alt=""/> |
+| Hi, I’m @ngueagho , a 4th-year student from Cameroun, specializing in Devops . I love diving into web and mobile development , cloud computing with AWS and cybersecurity with fortiget . Driven by the belief that technology can transform lives and create impactful solutions, and open to collaborating on online projects to drive innovation and make a difference; you can reach me at landry.ngueagho@facsciences-uy1.cm . | <img width="800px" align="right" src="senior-dev.jpg" alt=""/> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 
  
