@@ -20,7 +20,10 @@
 
 - 🛠️ **DevOps** — CI/CD, Docker, Kubernetes, Ansible, Terraform
 - ☁️ **Cloud Computing** — AWS, Azure, GCP
-- 🔐 **Cybersecurity**
+- 🔐 **Cybersecurity** — Pentest, Hardening, Réseaux sécurisés
+- 🌐 **Networking** — Cisco, VPN, Firewall, DNS, Load Balancing
+- 🖥️ **Linux & Scripting** — Bash, Shell, Ubuntu, Debian
+- 🗄️ **Databases** — MySQL, PostgreSQL, MongoDB, MariaDB
 - 📱 **Web & Mobile Development** — React, Flutter, Laravel, Django
 - 🤝 Open to collaborating on online projects
 - 📬 **tiodongroberto@gmail.com**
