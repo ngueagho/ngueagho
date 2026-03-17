@@ -24,7 +24,7 @@
 - 🖥️ **Linux & Scripting** — Bash, Shell, Ubuntu, Debian
 - 🗄️ **Databases** — MySQL, PostgreSQL, MongoDB, MariaDB
 - 📱 **Web & Mobile Development** — React, Flutter, Laravel, Django
-- 🤝 Open to collaborating on online projects
+- 🤝 **Open Source contributor** — always up for collaborative projects
 - 📬 **tiodongroberto@gmail.com**
 
 </td>
