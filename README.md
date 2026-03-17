@@ -18,9 +18,9 @@
 
 > *"Si tu ne travailles pas aussi dur que les autres, au moins travaille plus intelligemment."* — Shikamaru, Naruto
 
-- ☁️ Passionate about **Cloud Computing with AWS**
-- 🔐 Interested in **Cybersecurity** with Fortinet
-- 📱 Love **Web & Mobile Development**
+- ☁️ **Cloud Computing with AWS**
+- 🔐 **Cybersecurity** with Fortinet
+- 📱 **Web & Mobile Development**
 - 🤝 Open to collaborating on online projects
 - 📬 Reach me at **landry.ngueagho@facsciences-uy1.cm**
 
