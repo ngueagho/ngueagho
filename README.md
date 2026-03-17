@@ -8,8 +8,6 @@
   <em>DevOps &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Cybersecurity</em>
 </p>
 
----
-
 ## About Me
 
 <table>
@@ -31,10 +29,6 @@
 </td>
 </tr>
 </table>
-
----
-
----
 
 ---
 
@@ -62,13 +56,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
 ## Contribution Graph
 
 ![ngueagho's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngueagho&theme=react-dark)
-
----
 
 <div align="center">
 
