@@ -16,6 +16,8 @@
 <tr>
 <td valign="top" width="60%">
 
+> *"Si tu ne travailles pas aussi dur que les autres, au moins travaille plus intelligemment."* — Shikamaru, Naruto
+
 - ☁️ Passionate about **Cloud Computing with AWS**
 - 🔐 Interested in **Cybersecurity** with Fortinet
 - 📱 Love **Web & Mobile Development**
@@ -46,7 +48,7 @@
 
 ## Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <th>Cloud & Infrastructure</th>
     <th>Conteneurisation & Orchestration</th>
