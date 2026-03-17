@@ -8,7 +8,6 @@
   <em>DevOps &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Cybersecurity</em>
 </p>
 
-## About Me
 
 <table>
 <tr>
