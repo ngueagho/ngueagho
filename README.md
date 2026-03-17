@@ -2,22 +2,20 @@
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" width="100%"/>
 </div>
 
-<h1 align="center">Hi 👋 there, I'm Roberto Landry</h1>
+<h1 align="center">Hi there, I'm Roberto Landry</h1>
 
 <p align="center">
-  <em>4th-year student from Cameroon &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Web & Mobile &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Cybersecurity</em>
+  <em>DevOps &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Cybersecurity</em>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
-- 🎓 4th-year student specializing in **DevOps**
-- 🌍 Based in **Cameroon**
 - ☁️ Passionate about **Cloud Computing with AWS**
 - 🔐 Interested in **Cybersecurity** with Fortinet
 - 📱 Love **Web & Mobile Development**
@@ -33,7 +31,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roberto-landry-ngueagho-tiodong-7a0989223/" target="blank">
@@ -46,12 +44,12 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
-    <th>☁️ Cloud & Infrastructure</th>
-    <th>🐳 Conteneurisation & Orchestration</th>
+    <th>Cloud & Infrastructure</th>
+    <th>Conteneurisation & Orchestration</th>
   </tr>
   <tr>
     <td align="center">
@@ -65,8 +63,8 @@
     </td>
   </tr>
   <tr>
-    <th>⚙️ IaC & Automatisation</th>
-    <th>🖥️ Serveurs & Réseau</th>
+    <th>IaC & Automatisation</th>
+    <th>Serveurs & Réseau</th>
   </tr>
   <tr>
     <td align="center">
@@ -81,8 +79,8 @@
     </td>
   </tr>
   <tr>
-    <th>🗄️ Bases de données</th>
-    <th>🛠️ Gestion de projet</th>
+    <th>Bases de données</th>
+    <th>Gestion de projet</th>
   </tr>
   <tr>
     <td align="center">
@@ -99,7 +97,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -108,14 +106,14 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ngueagho&theme=dark&hide_border=false)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg">
@@ -125,7 +123,7 @@
 
 ---
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 ![ngueagho's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngueagho&theme=react-dark)
 
