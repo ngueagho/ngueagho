@@ -48,39 +48,54 @@
 
 ## 💻 Tech Stack
 
-**☁️ Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-
-**🐳 Conteneurisation & Orchestration**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-
-**⚙️ IaC & Automatisation**
-
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
-
-**🖥️ Serveurs & Réseau**
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-
-**🗄️ Bases de données**
-
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-**🛠️ Gestion de projet**
-
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+<table>
+  <tr>
+    <th>☁️ Cloud & Infrastructure</th>
+    <th>🐳 Conteneurisation & Orchestration</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th>⚙️ IaC & Automatisation</th>
+    <th>🖥️ Serveurs & Réseau</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white"/>
+      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi"/>
+    </td>
+  </tr>
+  <tr>
+    <th>🗄️ Bases de données</th>
+    <th>🛠️ Gestion de projet</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
