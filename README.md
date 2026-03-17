@@ -18,11 +18,11 @@
 
 > *"Si tu ne travailles pas aussi dur que les autres, au moins travaille plus intelligemment."* — Shikamaru, Naruto
 
-- ☁️ **Cloud Computing with AWS**
-- 🔐 **Cybersecurity** with Fortinet
+- ☁️ **Cloud Computing**
+- 🔐 **Cybersecurity**
 - 📱 **Web & Mobile Development**
 - 🤝 Open to collaborating on online projects
-- 📬 Reach me at **landry.ngueagho@facsciences-uy1.cm**
+- 📬 **tiodongroberto@gmail.com**
 
 </td>
 <td valign="top" width="40%" align="center">
