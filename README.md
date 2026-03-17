@@ -16,6 +16,8 @@
 
 > *"Si tu ne travailles pas aussi dur que les autres, au moins travaille plus intelligemment."* — Shikamaru, Naruto
 
+**Tech Stack**
+
 - 🛠️ **DevOps** — CI/CD, Docker, Kubernetes, Ansible, Terraform
 - ☁️ **Cloud Computing** — AWS, Azure, GCP
 - 🔐 **Cybersecurity** — TOR
@@ -29,8 +31,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ## GitHub Stats
 
