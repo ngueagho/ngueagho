@@ -18,9 +18,10 @@
 
 > *"Si tu ne travailles pas aussi dur que les autres, au moins travaille plus intelligemment."* — Shikamaru, Naruto
 
-- ☁️ **Cloud Computing**
-- 🔐 **Cybersecurity**
-- 📱 **Web & Mobile Development**
+- 🛠️ **DevOps** — CI/CD, Docker, Kubernetes, Ansible, Terraform
+- ☁️ **Cloud Computing** — AWS, OVH
+- 🔐 **Cybersecurity** — Fortinet, Cisco, TOR
+- 📱 **Web & Mobile Development** — React, Flutter, Laravel, Django
 - 🤝 Open to collaborating on online projects
 - 📬 **tiodongroberto@gmail.com**
 
